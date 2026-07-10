@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0876-middle-of-the-linked-list](https://github.com/mang-os/LeetCode-Solution/tree/main/0876-middle-of-the-linked-list/) | Easy |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/mang-os/LeetCode-Solution/tree/main/3534-path-existence-queries-in-a-graph-ii/) | Hard |
 ## Greedy
 | Problem Name | Difficulty |
@@ -83,4 +84,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/mang-os/LeetCode-Solution/tree/main/3534-path-existence-queries-in-a-graph-ii/) | Hard |
+## Linked List
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0876-middle-of-the-linked-list](https://github.com/mang-os/LeetCode-Solution/tree/main/0876-middle-of-the-linked-list/) | Easy |
 <!---LeetCode Topics End-->
