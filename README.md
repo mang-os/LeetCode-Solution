@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1636-sort-array-by-increasing-frequency](https://github.com/mang-os/LeetCode-Solution/tree/main/1636-sort-array-by-increasing-frequency/) | Easy |
 | [1901-find-a-peak-element-ii](https://github.com/mang-os/LeetCode-Solution/tree/main/1901-find-a-peak-element-ii/) | Medium |
 | [2951-find-the-peaks](https://github.com/mang-os/LeetCode-Solution/tree/main/2951-find-the-peaks/) | Easy |
+| [3312-sorted-gcd-pair-queries](https://github.com/mang-os/LeetCode-Solution/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/mang-os/LeetCode-Solution/tree/main/3336-find-the-number-of-subsequences-with-equal-gcd/) | Hard |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/mang-os/LeetCode-Solution/tree/main/3532-path-existence-queries-in-a-graph-i/) | Medium |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/mang-os/LeetCode-Solution/tree/main/3534-path-existence-queries-in-a-graph-ii/) | Hard |
@@ -31,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [3312-sorted-gcd-pair-queries](https://github.com/mang-os/LeetCode-Solution/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/mang-os/LeetCode-Solution/tree/main/3336-find-the-number-of-subsequences-with-equal-gcd/) | Hard |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/mang-os/LeetCode-Solution/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/mang-os/LeetCode-Solution/tree/main/3754-concatenate-non-zero-digits-and-multiply-by-sum-i/) | Easy |
@@ -41,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0240-search-a-2d-matrix-ii](https://github.com/mang-os/LeetCode-Solution/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
 | [1901-find-a-peak-element-ii](https://github.com/mang-os/LeetCode-Solution/tree/main/1901-find-a-peak-element-ii/) | Medium |
+| [3312-sorted-gcd-pair-queries](https://github.com/mang-os/LeetCode-Solution/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/mang-os/LeetCode-Solution/tree/main/3532-path-existence-queries-in-a-graph-i/) | Medium |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/mang-os/LeetCode-Solution/tree/main/3534-path-existence-queries-in-a-graph-ii/) | Hard |
 ## Divide and Conquer
@@ -61,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0160-intersection-of-two-linked-lists](https://github.com/mang-os/LeetCode-Solution/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
 | [1331-rank-transform-of-an-array](https://github.com/mang-os/LeetCode-Solution/tree/main/1331-rank-transform-of-an-array/) | Easy |
 | [1636-sort-array-by-increasing-frequency](https://github.com/mang-os/LeetCode-Solution/tree/main/1636-sort-array-by-increasing-frequency/) | Easy |
+| [3312-sorted-gcd-pair-queries](https://github.com/mang-os/LeetCode-Solution/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/mang-os/LeetCode-Solution/tree/main/3532-path-existence-queries-in-a-graph-i/) | Medium |
 ## Sorting
 | Problem Name | Difficulty |
@@ -77,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [3312-sorted-gcd-pair-queries](https://github.com/mang-os/LeetCode-Solution/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/mang-os/LeetCode-Solution/tree/main/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii/) | Medium |
 ## Union-Find
 | Problem Name | Difficulty |
@@ -147,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [3312-sorted-gcd-pair-queries](https://github.com/mang-os/LeetCode-Solution/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/mang-os/LeetCode-Solution/tree/main/3336-find-the-number-of-subsequences-with-equal-gcd/) | Hard |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/mang-os/LeetCode-Solution/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/mang-os/LeetCode-Solution/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
@@ -154,4 +160,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/mang-os/LeetCode-Solution/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
+## Combinatorics
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3312-sorted-gcd-pair-queries](https://github.com/mang-os/LeetCode-Solution/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
+## Counting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3312-sorted-gcd-pair-queries](https://github.com/mang-os/LeetCode-Solution/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
 <!---LeetCode Topics End-->
