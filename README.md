@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/mang-os/LeetCode-Solution/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/mang-os/LeetCode-Solution/tree/main/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii/) | Medium |
 ## Prefix Sum
 | Problem Name | Difficulty |
@@ -112,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/mang-os/LeetCode-Solution/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/mang-os/LeetCode-Solution/tree/main/3534-path-existence-queries-in-a-graph-ii/) | Hard |
 ## Bit Manipulation
 | Problem Name | Difficulty |
@@ -139,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0234-palindrome-linked-list](https://github.com/mang-os/LeetCode-Solution/tree/main/0234-palindrome-linked-list/) | Easy |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/mang-os/LeetCode-Solution/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
 ## Merge Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -171,4 +174,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3312-sorted-gcd-pair-queries](https://github.com/mang-os/LeetCode-Solution/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
+## Monotonic Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/mang-os/LeetCode-Solution/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
 <!---LeetCode Topics End-->
