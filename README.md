@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/mang-os/LeetCode-Solution/tree/main/3534-path-existence-queries-in-a-graph-ii/) | Hard |
 | [3731-find-missing-elements](https://github.com/mang-os/LeetCode-Solution/tree/main/3731-find-missing-elements/) | Easy |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/mang-os/LeetCode-Solution/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
+| [3925-concatenate-array-with-reverse](https://github.com/mang-os/LeetCode-Solution/tree/main/3925-concatenate-array-with-reverse/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -225,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1260-shift-2d-grid](https://github.com/mang-os/LeetCode-Solution/tree/main/1260-shift-2d-grid/) | Easy |
 | [2149-rearrange-array-elements-by-sign](https://github.com/mang-os/LeetCode-Solution/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/mang-os/LeetCode-Solution/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
+| [3925-concatenate-array-with-reverse](https://github.com/mang-os/LeetCode-Solution/tree/main/3925-concatenate-array-with-reverse/) | Easy |
 ## Combinatorics
 | Problem Name | Difficulty |
 | ------- | ------- |
