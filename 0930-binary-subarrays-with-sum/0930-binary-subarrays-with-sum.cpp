@@ -1,20 +1,26 @@
 class Solution {
-public:
-    int numSubarraysWithSum(vector<int>& nums, int goal) {
-        unordered_map<int,int> prefixCount;
+private:
+    int slidingWindowAtMost(vector<int>& nums,int goal){
+        if(goal<0)return 0;
+
+        int left=0;
         int currentSum=0;
         int count=0;
 
-        prefixCount[0]=1;
+        for(int right=0;right<nums.size();right++){
+            currentSum+=nums[right];
 
-        for(int num:nums){
-            currentSum+=num;
-
-            if(prefixCount.find(currentSum-goal)!=prefixCount.end()){
-                count+=prefixCount[currentSum-goal];
+            while(currentSum>goal){
+                currentSum-=nums[left];
+                left++;
             }
-            prefixCount[currentSum]++;
+            count+=(right-left+1);
         }
         return count;
+    }
+public:
+    int numSubarraysWithSum(vector<int>& nums, int goal) {
+        
+        return slidingWindowAtMost(nums,goal)-slidingWindowAtMost(nums,goal-1);
     }
 };
