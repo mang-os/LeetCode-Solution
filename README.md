@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/mang-os/LeetCode-Solution/tree/main/3534-path-existence-queries-in-a-graph-ii/) | Hard |
 | [3731-find-missing-elements](https://github.com/mang-os/LeetCode-Solution/tree/main/3731-find-missing-elements/) | Easy |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/mang-os/LeetCode-Solution/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
+| [3895-count-digit-appearances](https://github.com/mang-os/LeetCode-Solution/tree/main/3895-count-digit-appearances/) | Medium |
 | [3925-concatenate-array-with-reverse](https://github.com/mang-os/LeetCode-Solution/tree/main/3925-concatenate-array-with-reverse/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/mang-os/LeetCode-Solution/tree/main/3754-concatenate-non-zero-digits-and-multiply-by-sum-i/) | Easy |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/mang-os/LeetCode-Solution/tree/main/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii/) | Medium |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/mang-os/LeetCode-Solution/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
+| [3895-count-digit-appearances](https://github.com/mang-os/LeetCode-Solution/tree/main/3895-count-digit-appearances/) | Medium |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
