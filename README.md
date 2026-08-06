@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/mang-os/LeetCode-Solution/tree/main/0027-remove-element/) | Easy |
 | [0240-search-a-2d-matrix-ii](https://github.com/mang-os/LeetCode-Solution/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
 | [0486-predict-the-winner](https://github.com/mang-os/LeetCode-Solution/tree/main/0486-predict-the-winner/) | Medium |
+| [0605-can-place-flowers](https://github.com/mang-os/LeetCode-Solution/tree/main/0605-can-place-flowers/) | Easy |
 | [0628-maximum-product-of-three-numbers](https://github.com/mang-os/LeetCode-Solution/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0877-stone-game](https://github.com/mang-os/LeetCode-Solution/tree/main/0877-stone-game/) | Medium |
 | [0930-binary-subarrays-with-sum](https://github.com/mang-os/LeetCode-Solution/tree/main/0930-binary-subarrays-with-sum/) | Medium |
@@ -177,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0605-can-place-flowers](https://github.com/mang-os/LeetCode-Solution/tree/main/0605-can-place-flowers/) | Easy |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/mang-os/LeetCode-Solution/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/mang-os/LeetCode-Solution/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/mang-os/LeetCode-Solution/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
