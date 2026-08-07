@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/mang-os/LeetCode-Solution/tree/main/0035-search-insert-position/) | Easy |
 | [0039-combination-sum](https://github.com/mang-os/LeetCode-Solution/tree/main/0039-combination-sum/) | Medium |
 | [0046-permutations](https://github.com/mang-os/LeetCode-Solution/tree/main/0046-permutations/) | Medium |
+| [0055-jump-game](https://github.com/mang-os/LeetCode-Solution/tree/main/0055-jump-game/) | Medium |
 | [0240-search-a-2d-matrix-ii](https://github.com/mang-os/LeetCode-Solution/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
 | [0486-predict-the-winner](https://github.com/mang-os/LeetCode-Solution/tree/main/0486-predict-the-winner/) | Medium |
 | [0605-can-place-flowers](https://github.com/mang-os/LeetCode-Solution/tree/main/0605-can-place-flowers/) | Easy |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0022-generate-parentheses](https://github.com/mang-os/LeetCode-Solution/tree/main/0022-generate-parentheses/) | Medium |
+| [0055-jump-game](https://github.com/mang-os/LeetCode-Solution/tree/main/0055-jump-game/) | Medium |
 | [0486-predict-the-winner](https://github.com/mang-os/LeetCode-Solution/tree/main/0486-predict-the-winner/) | Medium |
 | [0877-stone-game](https://github.com/mang-os/LeetCode-Solution/tree/main/0877-stone-game/) | Medium |
 | [1301-number-of-paths-with-max-score](https://github.com/mang-os/LeetCode-Solution/tree/master/1301-number-of-paths-with-max-score) |
@@ -190,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0055-jump-game](https://github.com/mang-os/LeetCode-Solution/tree/main/0055-jump-game/) | Medium |
 | [0605-can-place-flowers](https://github.com/mang-os/LeetCode-Solution/tree/main/0605-can-place-flowers/) | Easy |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/mang-os/LeetCode-Solution/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/mang-os/LeetCode-Solution/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
