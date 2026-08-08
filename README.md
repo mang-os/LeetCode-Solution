@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0744-find-smallest-letter-greater-than-target](https://github.com/mang-os/LeetCode-Solution/tree/main/0744-find-smallest-letter-greater-than-target/) | Easy |
 | [0877-stone-game](https://github.com/mang-os/LeetCode-Solution/tree/main/0877-stone-game/) | Medium |
 | [0930-binary-subarrays-with-sum](https://github.com/mang-os/LeetCode-Solution/tree/main/0930-binary-subarrays-with-sum/) | Medium |
+| [1004-max-consecutive-ones-iii](https://github.com/mang-os/LeetCode-Solution/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1260-shift-2d-grid](https://github.com/mang-os/LeetCode-Solution/tree/main/1260-shift-2d-grid/) | Easy |
 | [1301-number-of-paths-with-max-score](https://github.com/mang-os/LeetCode-Solution/tree/master/1301-number-of-paths-with-max-score) |
 | [1331-rank-transform-of-an-array](https://github.com/mang-os/LeetCode-Solution/tree/main/1331-rank-transform-of-an-array/) | Easy |
@@ -104,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0436-find-right-interval](https://github.com/mang-os/LeetCode-Solution/tree/main/0436-find-right-interval/) | Medium |
 | [0704-binary-search](https://github.com/mang-os/LeetCode-Solution/tree/main/0704-binary-search/) | Easy |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/mang-os/LeetCode-Solution/tree/main/0744-find-smallest-letter-greater-than-target/) | Easy |
+| [1004-max-consecutive-ones-iii](https://github.com/mang-os/LeetCode-Solution/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/mang-os/LeetCode-Solution/tree/main/1351-count-negative-numbers-in-a-sorted-matrix/) | Easy |
 | [1901-find-a-peak-element-ii](https://github.com/mang-os/LeetCode-Solution/tree/main/1901-find-a-peak-element-ii/) | Medium |
 | [2089-find-target-indices-after-sorting-array](https://github.com/mang-os/LeetCode-Solution/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
@@ -178,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0238-product-of-array-except-self](https://github.com/mang-os/LeetCode-Solution/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0930-binary-subarrays-with-sum](https://github.com/mang-os/LeetCode-Solution/tree/main/0930-binary-subarrays-with-sum/) | Medium |
+| [1004-max-consecutive-ones-iii](https://github.com/mang-os/LeetCode-Solution/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/mang-os/LeetCode-Solution/tree/main/1685-sum-of-absolute-differences-in-a-sorted-array/) | Medium |
 | [3312-sorted-gcd-pair-queries](https://github.com/mang-os/LeetCode-Solution/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/mang-os/LeetCode-Solution/tree/main/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii/) | Medium |
@@ -330,6 +333,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0643-maximum-average-subarray-i](https://github.com/mang-os/LeetCode-Solution/tree/main/0643-maximum-average-subarray-i/) | Easy |
 | [0930-binary-subarrays-with-sum](https://github.com/mang-os/LeetCode-Solution/tree/main/0930-binary-subarrays-with-sum/) | Medium |
+| [1004-max-consecutive-ones-iii](https://github.com/mang-os/LeetCode-Solution/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
