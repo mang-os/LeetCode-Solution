@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/mang-os/LeetCode-Solution/tree/main/0486-predict-the-winner/) | Medium |
 | [0605-can-place-flowers](https://github.com/mang-os/LeetCode-Solution/tree/main/0605-can-place-flowers/) | Easy |
 | [0628-maximum-product-of-three-numbers](https://github.com/mang-os/LeetCode-Solution/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
+| [0643-maximum-average-subarray-i](https://github.com/mang-os/LeetCode-Solution/tree/main/0643-maximum-average-subarray-i/) | Easy |
 | [0704-binary-search](https://github.com/mang-os/LeetCode-Solution/tree/main/0704-binary-search/) | Easy |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/mang-os/LeetCode-Solution/tree/main/0744-find-smallest-letter-greater-than-target/) | Easy |
 | [0877-stone-game](https://github.com/mang-os/LeetCode-Solution/tree/main/0877-stone-game/) | Medium |
@@ -327,6 +328,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0643-maximum-average-subarray-i](https://github.com/mang-os/LeetCode-Solution/tree/main/0643-maximum-average-subarray-i/) | Easy |
 | [0930-binary-subarrays-with-sum](https://github.com/mang-os/LeetCode-Solution/tree/main/0930-binary-subarrays-with-sum/) | Medium |
 ## Backtracking
 | Problem Name | Difficulty |
