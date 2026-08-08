@@ -156,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/mang-os/LeetCode-Solution/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
 | [0022-generate-parentheses](https://github.com/mang-os/LeetCode-Solution/tree/main/0022-generate-parentheses/) | Medium |
+| [0345-reverse-vowels-of-a-string](https://github.com/mang-os/LeetCode-Solution/tree/main/0345-reverse-vowels-of-a-string/) | Easy |
 | [1071-greatest-common-divisor-of-strings](https://github.com/mang-os/LeetCode-Solution/tree/main/1071-greatest-common-divisor-of-strings/) | Easy |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/mang-os/LeetCode-Solution/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
 | [1768-merge-strings-alternately](https://github.com/mang-os/LeetCode-Solution/tree/main/1768-merge-strings-alternately/) | Easy |
@@ -195,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0148-sort-list](https://github.com/mang-os/LeetCode-Solution/tree/main/0148-sort-list/) | Medium |
 | [0160-intersection-of-two-linked-lists](https://github.com/mang-os/LeetCode-Solution/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/mang-os/LeetCode-Solution/tree/main/0234-palindrome-linked-list/) | Easy |
+| [0345-reverse-vowels-of-a-string](https://github.com/mang-os/LeetCode-Solution/tree/main/0345-reverse-vowels-of-a-string/) | Easy |
 | [0876-middle-of-the-linked-list](https://github.com/mang-os/LeetCode-Solution/tree/main/0876-middle-of-the-linked-list/) | Easy |
 | [1768-merge-strings-alternately](https://github.com/mang-os/LeetCode-Solution/tree/main/1768-merge-strings-alternately/) | Easy |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/mang-os/LeetCode-Solution/tree/main/2095-delete-the-middle-node-of-a-linked-list/) | Medium |
