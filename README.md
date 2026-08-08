@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0046-permutations](https://github.com/mang-os/LeetCode-Solution/tree/main/0046-permutations/) | Medium |
 | [0055-jump-game](https://github.com/mang-os/LeetCode-Solution/tree/main/0055-jump-game/) | Medium |
 | [0240-search-a-2d-matrix-ii](https://github.com/mang-os/LeetCode-Solution/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
+| [0436-find-right-interval](https://github.com/mang-os/LeetCode-Solution/tree/main/0436-find-right-interval/) | Medium |
 | [0486-predict-the-winner](https://github.com/mang-os/LeetCode-Solution/tree/main/0486-predict-the-winner/) | Medium |
 | [0605-can-place-flowers](https://github.com/mang-os/LeetCode-Solution/tree/main/0605-can-place-flowers/) | Easy |
 | [0628-maximum-product-of-three-numbers](https://github.com/mang-os/LeetCode-Solution/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
@@ -94,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/mang-os/LeetCode-Solution/tree/main/0035-search-insert-position/) | Easy |
 | [0240-search-a-2d-matrix-ii](https://github.com/mang-os/LeetCode-Solution/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
 | [0367-valid-perfect-square](https://github.com/mang-os/LeetCode-Solution/tree/main/0367-valid-perfect-square/) | Easy |
+| [0436-find-right-interval](https://github.com/mang-os/LeetCode-Solution/tree/main/0436-find-right-interval/) | Medium |
 | [0704-binary-search](https://github.com/mang-os/LeetCode-Solution/tree/main/0704-binary-search/) | Easy |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/mang-os/LeetCode-Solution/tree/main/0744-find-smallest-letter-greater-than-target/) | Easy |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/mang-os/LeetCode-Solution/tree/main/1351-count-negative-numbers-in-a-sorted-matrix/) | Easy |
@@ -135,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0148-sort-list](https://github.com/mang-os/LeetCode-Solution/tree/main/0148-sort-list/) | Medium |
+| [0436-find-right-interval](https://github.com/mang-os/LeetCode-Solution/tree/main/0436-find-right-interval/) | Medium |
 | [0628-maximum-product-of-three-numbers](https://github.com/mang-os/LeetCode-Solution/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [1331-rank-transform-of-an-array](https://github.com/mang-os/LeetCode-Solution/tree/main/1331-rank-transform-of-an-array/) | Easy |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/mang-os/LeetCode-Solution/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
