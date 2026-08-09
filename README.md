@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1652-defuse-the-bomb](https://github.com/mang-os/LeetCode-Solution/tree/main/1652-defuse-the-bomb/) | Easy |
 | [1679-max-number-of-k-sum-pairs](https://github.com/mang-os/LeetCode-Solution/tree/main/1679-max-number-of-k-sum-pairs/) | Medium |
 | [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/mang-os/LeetCode-Solution/tree/main/1685-sum-of-absolute-differences-in-a-sorted-array/) | Medium |
+| [1732-find-the-highest-altitude](https://github.com/mang-os/LeetCode-Solution/tree/main/1732-find-the-highest-altitude/) | Easy |
 | [1901-find-a-peak-element-ii](https://github.com/mang-os/LeetCode-Solution/tree/main/1901-find-a-peak-element-ii/) | Medium |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/mang-os/LeetCode-Solution/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [2089-find-target-indices-after-sorting-array](https://github.com/mang-os/LeetCode-Solution/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
@@ -201,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0930-binary-subarrays-with-sum](https://github.com/mang-os/LeetCode-Solution/tree/main/0930-binary-subarrays-with-sum/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/mang-os/LeetCode-Solution/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/mang-os/LeetCode-Solution/tree/main/1685-sum-of-absolute-differences-in-a-sorted-array/) | Medium |
+| [1732-find-the-highest-altitude](https://github.com/mang-os/LeetCode-Solution/tree/main/1732-find-the-highest-altitude/) | Easy |
 | [3312-sorted-gcd-pair-queries](https://github.com/mang-os/LeetCode-Solution/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/mang-os/LeetCode-Solution/tree/main/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii/) | Medium |
 ## Union-Find
