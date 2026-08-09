@@ -111,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/mang-os/LeetCode-Solution/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0240-search-a-2d-matrix-ii](https://github.com/mang-os/LeetCode-Solution/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
 | [0367-valid-perfect-square](https://github.com/mang-os/LeetCode-Solution/tree/main/0367-valid-perfect-square/) | Easy |
+| [0374-guess-number-higher-or-lower](https://github.com/mang-os/LeetCode-Solution/tree/main/0374-guess-number-higher-or-lower/) | Easy |
 | [0436-find-right-interval](https://github.com/mang-os/LeetCode-Solution/tree/main/0436-find-right-interval/) | Medium |
 | [0704-binary-search](https://github.com/mang-os/LeetCode-Solution/tree/main/0704-binary-search/) | Easy |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/mang-os/LeetCode-Solution/tree/main/0744-find-smallest-letter-greater-than-target/) | Easy |
@@ -378,4 +379,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0334-increasing-triplet-subsequence](https://github.com/mang-os/LeetCode-Solution/tree/main/0334-increasing-triplet-subsequence/) | Medium |
+## Interactive
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0374-guess-number-higher-or-lower](https://github.com/mang-os/LeetCode-Solution/tree/main/0374-guess-number-higher-or-lower/) | Easy |
 <!---LeetCode Topics End-->
