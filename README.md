@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/mang-os/LeetCode-Solution/tree/main/0045-jump-game-ii/) | Medium |
 | [0046-permutations](https://github.com/mang-os/LeetCode-Solution/tree/main/0046-permutations/) | Medium |
 | [0055-jump-game](https://github.com/mang-os/LeetCode-Solution/tree/main/0055-jump-game/) | Medium |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/mang-os/LeetCode-Solution/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/mang-os/LeetCode-Solution/tree/main/0154-find-minimum-in-rotated-sorted-array-ii/) | Hard |
 | [0189-rotate-array](https://github.com/mang-os/LeetCode-Solution/tree/main/0189-rotate-array/) | Medium |
 | [0209-minimum-size-subarray-sum](https://github.com/mang-os/LeetCode-Solution/tree/main/0209-minimum-size-subarray-sum/) | Medium |
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/mang-os/LeetCode-Solution/tree/main/0022-generate-parentheses/) | Medium |
 | [0045-jump-game-ii](https://github.com/mang-os/LeetCode-Solution/tree/main/0045-jump-game-ii/) | Medium |
 | [0055-jump-game](https://github.com/mang-os/LeetCode-Solution/tree/main/0055-jump-game/) | Medium |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/mang-os/LeetCode-Solution/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0392-is-subsequence](https://github.com/mang-os/LeetCode-Solution/tree/main/0392-is-subsequence/) | Easy |
 | [0486-predict-the-winner](https://github.com/mang-os/LeetCode-Solution/tree/main/0486-predict-the-winner/) | Medium |
 | [0877-stone-game](https://github.com/mang-os/LeetCode-Solution/tree/main/0877-stone-game/) | Medium |
