@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0046-permutations](https://github.com/mang-os/LeetCode-Solution/tree/main/0046-permutations/) | Medium |
 | [0055-jump-game](https://github.com/mang-os/LeetCode-Solution/tree/main/0055-jump-game/) | Medium |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/mang-os/LeetCode-Solution/tree/main/0154-find-minimum-in-rotated-sorted-array-ii/) | Hard |
+| [0189-rotate-array](https://github.com/mang-os/LeetCode-Solution/tree/main/0189-rotate-array/) | Medium |
 | [0209-minimum-size-subarray-sum](https://github.com/mang-os/LeetCode-Solution/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0238-product-of-array-except-self](https://github.com/mang-os/LeetCode-Solution/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0240-search-a-2d-matrix-ii](https://github.com/mang-os/LeetCode-Solution/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
@@ -88,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0189-rotate-array](https://github.com/mang-os/LeetCode-Solution/tree/main/0189-rotate-array/) | Medium |
 | [0367-valid-perfect-square](https://github.com/mang-os/LeetCode-Solution/tree/main/0367-valid-perfect-square/) | Easy |
 | [0486-predict-the-winner](https://github.com/mang-os/LeetCode-Solution/tree/main/0486-predict-the-winner/) | Medium |
 | [0628-maximum-product-of-three-numbers](https://github.com/mang-os/LeetCode-Solution/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
@@ -232,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/mang-os/LeetCode-Solution/tree/main/0142-linked-list-cycle-ii/) | Medium |
 | [0148-sort-list](https://github.com/mang-os/LeetCode-Solution/tree/main/0148-sort-list/) | Medium |
 | [0160-intersection-of-two-linked-lists](https://github.com/mang-os/LeetCode-Solution/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
+| [0189-rotate-array](https://github.com/mang-os/LeetCode-Solution/tree/main/0189-rotate-array/) | Medium |
 | [0234-palindrome-linked-list](https://github.com/mang-os/LeetCode-Solution/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0345-reverse-vowels-of-a-string](https://github.com/mang-os/LeetCode-Solution/tree/main/0345-reverse-vowels-of-a-string/) | Easy |
 | [0392-is-subsequence](https://github.com/mang-os/LeetCode-Solution/tree/main/0392-is-subsequence/) | Easy |
