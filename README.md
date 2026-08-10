@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/mang-os/LeetCode-Solution/tree/main/0022-generate-parentheses/) | Medium |
 | [0045-jump-game-ii](https://github.com/mang-os/LeetCode-Solution/tree/main/0045-jump-game-ii/) | Medium |
 | [0055-jump-game](https://github.com/mang-os/LeetCode-Solution/tree/main/0055-jump-game/) | Medium |
+| [0392-is-subsequence](https://github.com/mang-os/LeetCode-Solution/tree/main/0392-is-subsequence/) | Easy |
 | [0486-predict-the-winner](https://github.com/mang-os/LeetCode-Solution/tree/main/0486-predict-the-winner/) | Medium |
 | [0877-stone-game](https://github.com/mang-os/LeetCode-Solution/tree/main/0877-stone-game/) | Medium |
 | [1140-stone-game-ii](https://github.com/mang-os/LeetCode-Solution/tree/main/1140-stone-game-ii/) | Medium |
@@ -184,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/mang-os/LeetCode-Solution/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
 | [0022-generate-parentheses](https://github.com/mang-os/LeetCode-Solution/tree/main/0022-generate-parentheses/) | Medium |
 | [0345-reverse-vowels-of-a-string](https://github.com/mang-os/LeetCode-Solution/tree/main/0345-reverse-vowels-of-a-string/) | Easy |
+| [0392-is-subsequence](https://github.com/mang-os/LeetCode-Solution/tree/main/0392-is-subsequence/) | Easy |
 | [1071-greatest-common-divisor-of-strings](https://github.com/mang-os/LeetCode-Solution/tree/main/1071-greatest-common-divisor-of-strings/) | Easy |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/mang-os/LeetCode-Solution/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/mang-os/LeetCode-Solution/tree/main/1456-maximum-number-of-vowels-in-a-substring-of-given-length/) | Medium |
@@ -232,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0160-intersection-of-two-linked-lists](https://github.com/mang-os/LeetCode-Solution/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/mang-os/LeetCode-Solution/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0345-reverse-vowels-of-a-string](https://github.com/mang-os/LeetCode-Solution/tree/main/0345-reverse-vowels-of-a-string/) | Easy |
+| [0392-is-subsequence](https://github.com/mang-os/LeetCode-Solution/tree/main/0392-is-subsequence/) | Easy |
 | [0876-middle-of-the-linked-list](https://github.com/mang-os/LeetCode-Solution/tree/main/0876-middle-of-the-linked-list/) | Easy |
 | [1679-max-number-of-k-sum-pairs](https://github.com/mang-os/LeetCode-Solution/tree/main/1679-max-number-of-k-sum-pairs/) | Medium |
 | [1768-merge-strings-alternately](https://github.com/mang-os/LeetCode-Solution/tree/main/1768-merge-strings-alternately/) | Easy |
