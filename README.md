@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/mang-os/LeetCode-Solution/tree/main/0045-jump-game-ii/) | Medium |
 | [0046-permutations](https://github.com/mang-os/LeetCode-Solution/tree/main/0046-permutations/) | Medium |
 | [0048-rotate-image](https://github.com/mang-os/LeetCode-Solution/tree/main/0048-rotate-image/) | Medium |
+| [0054-spiral-matrix](https://github.com/mang-os/LeetCode-Solution/tree/main/0054-spiral-matrix/) | Medium |
 | [0055-jump-game](https://github.com/mang-os/LeetCode-Solution/tree/main/0055-jump-game/) | Medium |
 | [0074-search-a-2d-matrix](https://github.com/mang-os/LeetCode-Solution/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/mang-os/LeetCode-Solution/tree/main/0080-remove-duplicates-from-sorted-array-ii/) | Medium |
@@ -96,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0048-rotate-image](https://github.com/mang-os/LeetCode-Solution/tree/main/0048-rotate-image/) | Medium |
+| [0054-spiral-matrix](https://github.com/mang-os/LeetCode-Solution/tree/main/0054-spiral-matrix/) | Medium |
 | [0074-search-a-2d-matrix](https://github.com/mang-os/LeetCode-Solution/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0240-search-a-2d-matrix-ii](https://github.com/mang-os/LeetCode-Solution/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
 | [1260-shift-2d-grid](https://github.com/mang-os/LeetCode-Solution/tree/main/1260-shift-2d-grid/) | Easy |
@@ -357,6 +359,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0054-spiral-matrix](https://github.com/mang-os/LeetCode-Solution/tree/main/0054-spiral-matrix/) | Medium |
 | [1260-shift-2d-grid](https://github.com/mang-os/LeetCode-Solution/tree/main/1260-shift-2d-grid/) | Easy |
 | [2149-rearrange-array-elements-by-sign](https://github.com/mang-os/LeetCode-Solution/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/mang-os/LeetCode-Solution/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
