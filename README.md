@@ -251,6 +251,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0019-remove-nth-node-from-end-of-list](https://github.com/mang-os/LeetCode-Solution/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/mang-os/LeetCode-Solution/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0027-remove-element](https://github.com/mang-os/LeetCode-Solution/tree/main/0027-remove-element/) | Easy |
+| [0061-rotate-list](https://github.com/mang-os/LeetCode-Solution/tree/main/0061-rotate-list/) | Medium |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/mang-os/LeetCode-Solution/tree/main/0080-remove-duplicates-from-sorted-array-ii/) | Medium |
 | [0141-linked-list-cycle](https://github.com/mang-os/LeetCode-Solution/tree/main/0141-linked-list-cycle/) | Easy |
 | [0142-linked-list-cycle-ii](https://github.com/mang-os/LeetCode-Solution/tree/main/0142-linked-list-cycle-ii/) | Medium |
@@ -293,6 +294,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/mang-os/LeetCode-Solution/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium |
 | [0025-reverse-nodes-in-k-group](https://github.com/mang-os/LeetCode-Solution/tree/main/0025-reverse-nodes-in-k-group/) | Hard |
+| [0061-rotate-list](https://github.com/mang-os/LeetCode-Solution/tree/main/0061-rotate-list/) | Medium |
 | [0141-linked-list-cycle](https://github.com/mang-os/LeetCode-Solution/tree/main/0141-linked-list-cycle/) | Easy |
 | [0142-linked-list-cycle-ii](https://github.com/mang-os/LeetCode-Solution/tree/main/0142-linked-list-cycle-ii/) | Medium |
 | [0148-sort-list](https://github.com/mang-os/LeetCode-Solution/tree/main/0148-sort-list/) | Medium |
