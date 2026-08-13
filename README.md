@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/mang-os/LeetCode-Solution/tree/main/0022-generate-parentheses/) | Medium |
 | [0045-jump-game-ii](https://github.com/mang-os/LeetCode-Solution/tree/main/0045-jump-game-ii/) | Medium |
 | [0055-jump-game](https://github.com/mang-os/LeetCode-Solution/tree/main/0055-jump-game/) | Medium |
+| [0070-climbing-stairs](https://github.com/mang-os/LeetCode-Solution/tree/main/0070-climbing-stairs/) | Easy |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/mang-os/LeetCode-Solution/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0392-is-subsequence](https://github.com/mang-os/LeetCode-Solution/tree/main/0392-is-subsequence/) | Easy |
 | [0486-predict-the-winner](https://github.com/mang-os/LeetCode-Solution/tree/main/0486-predict-the-winner/) | Medium |
@@ -109,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0048-rotate-image](https://github.com/mang-os/LeetCode-Solution/tree/main/0048-rotate-image/) | Medium |
+| [0070-climbing-stairs](https://github.com/mang-os/LeetCode-Solution/tree/main/0070-climbing-stairs/) | Easy |
 | [0189-rotate-array](https://github.com/mang-os/LeetCode-Solution/tree/main/0189-rotate-array/) | Medium |
 | [0367-valid-perfect-square](https://github.com/mang-os/LeetCode-Solution/tree/main/0367-valid-perfect-square/) | Easy |
 | [0486-predict-the-winner](https://github.com/mang-os/LeetCode-Solution/tree/main/0486-predict-the-winner/) | Medium |
@@ -469,4 +471,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/mang-os/LeetCode-Solution/tree/main/2213-longest-substring-of-one-repeating-character/) | Hard |
+## Memoization
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0070-climbing-stairs](https://github.com/mang-os/LeetCode-Solution/tree/main/0070-climbing-stairs/) | Easy |
 <!---LeetCode Topics End-->
