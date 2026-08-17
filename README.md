@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/mang-os/LeetCode-Solution/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/mang-os/LeetCode-Solution/tree/main/1493-longest-subarray-of-1s-after-deleting-one-element/) | Medium |
 | [1539-kth-missing-positive-number](https://github.com/mang-os/LeetCode-Solution/tree/main/1539-kth-missing-positive-number/) | Easy |
+| [1563-stone-game-v](https://github.com/mang-os/LeetCode-Solution/tree/main/1563-stone-game-v/) | Hard |
 | [1636-sort-array-by-increasing-frequency](https://github.com/mang-os/LeetCode-Solution/tree/main/1636-sort-array-by-increasing-frequency/) | Easy |
 | [1652-defuse-the-bomb](https://github.com/mang-os/LeetCode-Solution/tree/main/1652-defuse-the-bomb/) | Easy |
 | [1679-max-number-of-k-sum-pairs](https://github.com/mang-os/LeetCode-Solution/tree/main/1679-max-number-of-k-sum-pairs/) | Medium |
@@ -98,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1406-stone-game-iii](https://github.com/mang-os/LeetCode-Solution/tree/main/1406-stone-game-iii/) | Hard |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/mang-os/LeetCode-Solution/tree/main/1493-longest-subarray-of-1s-after-deleting-one-element/) | Medium |
 | [1510-stone-game-iv](https://github.com/mang-os/LeetCode-Solution/tree/main/1510-stone-game-iv/) | Hard |
+| [1563-stone-game-v](https://github.com/mang-os/LeetCode-Solution/tree/main/1563-stone-game-v/) | Hard |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/mang-os/LeetCode-Solution/tree/main/3302-find-the-lexicographically-smallest-valid-sequence/) | Medium |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/mang-os/LeetCode-Solution/tree/main/3336-find-the-number-of-subsequences-with-equal-gcd/) | Hard |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/mang-os/LeetCode-Solution/tree/main/3534-path-existence-queries-in-a-graph-ii/) | Hard |
@@ -127,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/mang-os/LeetCode-Solution/tree/main/1290-convert-binary-number-in-a-linked-list-to-integer/) | Easy |
 | [1406-stone-game-iii](https://github.com/mang-os/LeetCode-Solution/tree/main/1406-stone-game-iii/) | Hard |
 | [1510-stone-game-iv](https://github.com/mang-os/LeetCode-Solution/tree/main/1510-stone-game-iv/) | Hard |
+| [1563-stone-game-v](https://github.com/mang-os/LeetCode-Solution/tree/main/1563-stone-game-v/) | Hard |
 | [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/mang-os/LeetCode-Solution/tree/main/1685-sum-of-absolute-differences-in-a-sorted-array/) | Medium |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/mang-os/LeetCode-Solution/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [2029-stone-game-ix](https://github.com/mang-os/LeetCode-Solution/tree/main/2029-stone-game-ix/) | Medium |
@@ -424,6 +427,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1140-stone-game-ii](https://github.com/mang-os/LeetCode-Solution/tree/main/1140-stone-game-ii/) | Medium |
 | [1406-stone-game-iii](https://github.com/mang-os/LeetCode-Solution/tree/main/1406-stone-game-iii/) | Hard |
 | [1510-stone-game-iv](https://github.com/mang-os/LeetCode-Solution/tree/main/1510-stone-game-iv/) | Hard |
+| [1563-stone-game-v](https://github.com/mang-os/LeetCode-Solution/tree/main/1563-stone-game-v/) | Hard |
 | [2029-stone-game-ix](https://github.com/mang-os/LeetCode-Solution/tree/main/2029-stone-game-ix/) | Medium |
 ## Minimax
 | Problem Name | Difficulty |
