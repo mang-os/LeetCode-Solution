@@ -198,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/mang-os/LeetCode-Solution/tree/main/0142-linked-list-cycle-ii/) | Medium |
 | [0160-intersection-of-two-linked-lists](https://github.com/mang-os/LeetCode-Solution/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
 | [0169-majority-element](https://github.com/mang-os/LeetCode-Solution/tree/main/0169-majority-element/) | Easy |
+| [0424-longest-repeating-character-replacement](https://github.com/mang-os/LeetCode-Solution/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [0904-fruit-into-baskets](https://github.com/mang-os/LeetCode-Solution/tree/main/0904-fruit-into-baskets/) | Medium |
 | [0930-binary-subarrays-with-sum](https://github.com/mang-os/LeetCode-Solution/tree/main/0930-binary-subarrays-with-sum/) | Medium |
 | [1331-rank-transform-of-an-array](https://github.com/mang-os/LeetCode-Solution/tree/main/1331-rank-transform-of-an-array/) | Easy |
@@ -240,6 +241,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/mang-os/LeetCode-Solution/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [0345-reverse-vowels-of-a-string](https://github.com/mang-os/LeetCode-Solution/tree/main/0345-reverse-vowels-of-a-string/) | Easy |
 | [0392-is-subsequence](https://github.com/mang-os/LeetCode-Solution/tree/main/0392-is-subsequence/) | Easy |
+| [0424-longest-repeating-character-replacement](https://github.com/mang-os/LeetCode-Solution/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [1071-greatest-common-divisor-of-strings](https://github.com/mang-os/LeetCode-Solution/tree/main/1071-greatest-common-divisor-of-strings/) | Easy |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/mang-os/LeetCode-Solution/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/mang-os/LeetCode-Solution/tree/main/1456-maximum-number-of-vowels-in-a-substring-of-given-length/) | Medium |
@@ -454,6 +456,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/mang-os/LeetCode-Solution/tree/main/0209-minimum-size-subarray-sum/) | Medium |
+| [0424-longest-repeating-character-replacement](https://github.com/mang-os/LeetCode-Solution/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [0643-maximum-average-subarray-i](https://github.com/mang-os/LeetCode-Solution/tree/main/0643-maximum-average-subarray-i/) | Easy |
 | [0904-fruit-into-baskets](https://github.com/mang-os/LeetCode-Solution/tree/main/0904-fruit-into-baskets/) | Medium |
 | [0930-binary-subarrays-with-sum](https://github.com/mang-os/LeetCode-Solution/tree/main/0930-binary-subarrays-with-sum/) | Medium |
