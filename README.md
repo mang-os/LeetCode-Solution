@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0643-maximum-average-subarray-i](https://github.com/mang-os/LeetCode-Solution/tree/main/0643-maximum-average-subarray-i/) | Easy |
 | [0704-binary-search](https://github.com/mang-os/LeetCode-Solution/tree/main/0704-binary-search/) | Easy |
 | [0724-find-pivot-index](https://github.com/mang-os/LeetCode-Solution/tree/main/0724-find-pivot-index/) | Easy |
+| [0739-daily-temperatures](https://github.com/mang-os/LeetCode-Solution/tree/main/0739-daily-temperatures/) | Medium |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/mang-os/LeetCode-Solution/tree/main/0744-find-smallest-letter-greater-than-target/) | Easy |
 | [0875-koko-eating-bananas](https://github.com/mang-os/LeetCode-Solution/tree/main/0875-koko-eating-bananas/) | Medium |
 | [0877-stone-game](https://github.com/mang-os/LeetCode-Solution/tree/main/0877-stone-game/) | Medium |
@@ -357,6 +358,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0234-palindrome-linked-list](https://github.com/mang-os/LeetCode-Solution/tree/main/0234-palindrome-linked-list/) | Easy |
+| [0739-daily-temperatures](https://github.com/mang-os/LeetCode-Solution/tree/main/0739-daily-temperatures/) | Medium |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/mang-os/LeetCode-Solution/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
 ## Merge Sort
 | Problem Name | Difficulty |
@@ -406,6 +408,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0739-daily-temperatures](https://github.com/mang-os/LeetCode-Solution/tree/main/0739-daily-temperatures/) | Medium |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/mang-os/LeetCode-Solution/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
 ## Segment Tree
 | Problem Name | Difficulty |
