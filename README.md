@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0744-find-smallest-letter-greater-than-target](https://github.com/mang-os/LeetCode-Solution/tree/main/0744-find-smallest-letter-greater-than-target/) | Easy |
 | [0875-koko-eating-bananas](https://github.com/mang-os/LeetCode-Solution/tree/main/0875-koko-eating-bananas/) | Medium |
 | [0877-stone-game](https://github.com/mang-os/LeetCode-Solution/tree/main/0877-stone-game/) | Medium |
+| [0904-fruit-into-baskets](https://github.com/mang-os/LeetCode-Solution/tree/main/0904-fruit-into-baskets/) | Medium |
 | [0930-binary-subarrays-with-sum](https://github.com/mang-os/LeetCode-Solution/tree/main/0930-binary-subarrays-with-sum/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/mang-os/LeetCode-Solution/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1140-stone-game-ii](https://github.com/mang-os/LeetCode-Solution/tree/main/1140-stone-game-ii/) | Medium |
@@ -197,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/mang-os/LeetCode-Solution/tree/main/0142-linked-list-cycle-ii/) | Medium |
 | [0160-intersection-of-two-linked-lists](https://github.com/mang-os/LeetCode-Solution/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
 | [0169-majority-element](https://github.com/mang-os/LeetCode-Solution/tree/main/0169-majority-element/) | Easy |
+| [0904-fruit-into-baskets](https://github.com/mang-os/LeetCode-Solution/tree/main/0904-fruit-into-baskets/) | Medium |
 | [0930-binary-subarrays-with-sum](https://github.com/mang-os/LeetCode-Solution/tree/main/0930-binary-subarrays-with-sum/) | Medium |
 | [1331-rank-transform-of-an-array](https://github.com/mang-os/LeetCode-Solution/tree/main/1331-rank-transform-of-an-array/) | Easy |
 | [1636-sort-array-by-increasing-frequency](https://github.com/mang-os/LeetCode-Solution/tree/main/1636-sort-array-by-increasing-frequency/) | Easy |
@@ -453,6 +455,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/mang-os/LeetCode-Solution/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0643-maximum-average-subarray-i](https://github.com/mang-os/LeetCode-Solution/tree/main/0643-maximum-average-subarray-i/) | Easy |
+| [0904-fruit-into-baskets](https://github.com/mang-os/LeetCode-Solution/tree/main/0904-fruit-into-baskets/) | Medium |
 | [0930-binary-subarrays-with-sum](https://github.com/mang-os/LeetCode-Solution/tree/main/0930-binary-subarrays-with-sum/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/mang-os/LeetCode-Solution/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/mang-os/LeetCode-Solution/tree/main/1456-maximum-number-of-vowels-in-a-substring-of-given-length/) | Medium |
