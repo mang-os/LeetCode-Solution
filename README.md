@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1732-find-the-highest-altitude](https://github.com/mang-os/LeetCode-Solution/tree/main/1732-find-the-highest-altitude/) | Easy |
 | [1901-find-a-peak-element-ii](https://github.com/mang-os/LeetCode-Solution/tree/main/1901-find-a-peak-element-ii/) | Medium |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/mang-os/LeetCode-Solution/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
+| [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/mang-os/LeetCode-Solution/tree/main/1984-minimum-difference-between-highest-and-lowest-of-k-scores/) | Easy |
 | [2029-stone-game-ix](https://github.com/mang-os/LeetCode-Solution/tree/main/2029-stone-game-ix/) | Medium |
 | [2089-find-target-indices-after-sorting-array](https://github.com/mang-os/LeetCode-Solution/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
 | [2149-rearrange-array-elements-by-sign](https://github.com/mang-os/LeetCode-Solution/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
@@ -235,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/mang-os/LeetCode-Solution/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [1636-sort-array-by-increasing-frequency](https://github.com/mang-os/LeetCode-Solution/tree/main/1636-sort-array-by-increasing-frequency/) | Easy |
 | [1679-max-number-of-k-sum-pairs](https://github.com/mang-os/LeetCode-Solution/tree/main/1679-max-number-of-k-sum-pairs/) | Medium |
+| [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/mang-os/LeetCode-Solution/tree/main/1984-minimum-difference-between-highest-and-lowest-of-k-scores/) | Easy |
 | [2089-find-target-indices-after-sorting-array](https://github.com/mang-os/LeetCode-Solution/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/mang-os/LeetCode-Solution/tree/main/2300-successful-pairs-of-spells-and-potions/) | Medium |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/mang-os/LeetCode-Solution/tree/main/2824-count-pairs-whose-sum-is-less-than-target/) | Easy |
@@ -484,6 +486,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/mang-os/LeetCode-Solution/tree/main/1456-maximum-number-of-vowels-in-a-substring-of-given-length/) | Medium |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/mang-os/LeetCode-Solution/tree/main/1493-longest-subarray-of-1s-after-deleting-one-element/) | Medium |
 | [1652-defuse-the-bomb](https://github.com/mang-os/LeetCode-Solution/tree/main/1652-defuse-the-bomb/) | Easy |
+| [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/mang-os/LeetCode-Solution/tree/main/1984-minimum-difference-between-highest-and-lowest-of-k-scores/) | Easy |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/mang-os/LeetCode-Solution/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 ## Backtracking
 | Problem Name | Difficulty |
