@@ -140,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1510-stone-game-iv](https://github.com/mang-os/LeetCode-Solution/tree/main/1510-stone-game-iv/) | Hard |
 | [1563-stone-game-v](https://github.com/mang-os/LeetCode-Solution/tree/main/1563-stone-game-v/) | Hard |
 | [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/mang-os/LeetCode-Solution/tree/main/1685-sum-of-absolute-differences-in-a-sorted-array/) | Medium |
+| [1927-sum-game](https://github.com/mang-os/LeetCode-Solution/tree/main/1927-sum-game/) | Medium |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/mang-os/LeetCode-Solution/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [2029-stone-game-ix](https://github.com/mang-os/LeetCode-Solution/tree/main/2029-stone-game-ix/) | Medium |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/mang-os/LeetCode-Solution/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
@@ -261,6 +262,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/mang-os/LeetCode-Solution/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/mang-os/LeetCode-Solution/tree/main/1456-maximum-number-of-vowels-in-a-substring-of-given-length/) | Medium |
 | [1768-merge-strings-alternately](https://github.com/mang-os/LeetCode-Solution/tree/main/1768-merge-strings-alternately/) | Easy |
+| [1927-sum-game](https://github.com/mang-os/LeetCode-Solution/tree/main/1927-sum-game/) | Medium |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/mang-os/LeetCode-Solution/tree/main/2213-longest-substring-of-one-repeating-character/) | Hard |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/mang-os/LeetCode-Solution/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/mang-os/LeetCode-Solution/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
@@ -335,6 +337,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0605-can-place-flowers](https://github.com/mang-os/LeetCode-Solution/tree/main/0605-can-place-flowers/) | Easy |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/mang-os/LeetCode-Solution/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
 | [1386-cinema-seat-allocation](https://github.com/mang-os/LeetCode-Solution/tree/main/1386-cinema-seat-allocation/) | Medium |
+| [1927-sum-game](https://github.com/mang-os/LeetCode-Solution/tree/main/1927-sum-game/) | Medium |
 | [2029-stone-game-ix](https://github.com/mang-os/LeetCode-Solution/tree/main/2029-stone-game-ix/) | Medium |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/mang-os/LeetCode-Solution/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/mang-os/LeetCode-Solution/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
@@ -459,6 +462,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1406-stone-game-iii](https://github.com/mang-os/LeetCode-Solution/tree/main/1406-stone-game-iii/) | Hard |
 | [1510-stone-game-iv](https://github.com/mang-os/LeetCode-Solution/tree/main/1510-stone-game-iv/) | Hard |
 | [1563-stone-game-v](https://github.com/mang-os/LeetCode-Solution/tree/main/1563-stone-game-v/) | Hard |
+| [1927-sum-game](https://github.com/mang-os/LeetCode-Solution/tree/main/1927-sum-game/) | Medium |
 | [2029-stone-game-ix](https://github.com/mang-os/LeetCode-Solution/tree/main/2029-stone-game-ix/) | Medium |
 ## Minimax
 | Problem Name | Difficulty |
