@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2213-longest-substring-of-one-repeating-character](https://github.com/mang-os/LeetCode-Solution/tree/main/2213-longest-substring-of-one-repeating-character/) | Hard |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/mang-os/LeetCode-Solution/tree/main/2300-successful-pairs-of-spells-and-potions/) | Medium |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/mang-os/LeetCode-Solution/tree/main/2529-maximum-count-of-positive-integer-and-negative-integer/) | Easy |
+| [2799-count-complete-subarrays-in-an-array](https://github.com/mang-os/LeetCode-Solution/tree/main/2799-count-complete-subarrays-in-an-array/) | Medium |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/mang-os/LeetCode-Solution/tree/main/2824-count-pairs-whose-sum-is-less-than-target/) | Easy |
 | [2951-find-the-peaks](https://github.com/mang-os/LeetCode-Solution/tree/main/2951-find-the-peaks/) | Easy |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/mang-os/LeetCode-Solution/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
@@ -219,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1386-cinema-seat-allocation](https://github.com/mang-os/LeetCode-Solution/tree/main/1386-cinema-seat-allocation/) | Medium |
 | [1636-sort-array-by-increasing-frequency](https://github.com/mang-os/LeetCode-Solution/tree/main/1636-sort-array-by-increasing-frequency/) | Easy |
 | [1679-max-number-of-k-sum-pairs](https://github.com/mang-os/LeetCode-Solution/tree/main/1679-max-number-of-k-sum-pairs/) | Medium |
+| [2799-count-complete-subarrays-in-an-array](https://github.com/mang-os/LeetCode-Solution/tree/main/2799-count-complete-subarrays-in-an-array/) | Medium |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/mang-os/LeetCode-Solution/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/mang-os/LeetCode-Solution/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/mang-os/LeetCode-Solution/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
@@ -497,6 +499,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/mang-os/LeetCode-Solution/tree/main/1493-longest-subarray-of-1s-after-deleting-one-element/) | Medium |
 | [1652-defuse-the-bomb](https://github.com/mang-os/LeetCode-Solution/tree/main/1652-defuse-the-bomb/) | Easy |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/mang-os/LeetCode-Solution/tree/main/1984-minimum-difference-between-highest-and-lowest-of-k-scores/) | Easy |
+| [2799-count-complete-subarrays-in-an-array](https://github.com/mang-os/LeetCode-Solution/tree/main/2799-count-complete-subarrays-in-an-array/) | Medium |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/mang-os/LeetCode-Solution/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 | [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/mang-os/LeetCode-Solution/tree/main/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i/) | Medium |
 ## Backtracking
