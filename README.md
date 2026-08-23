@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/mang-os/LeetCode-Solution/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/mang-os/LeetCode-Solution/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/mang-os/LeetCode-Solution/tree/main/3116-kth-smallest-amount-with-single-denomination-combination/) | Hard |
+| [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/mang-os/LeetCode-Solution/tree/main/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i/) | Medium |
 | [3312-sorted-gcd-pair-queries](https://github.com/mang-os/LeetCode-Solution/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/mang-os/LeetCode-Solution/tree/main/3336-find-the-number-of-subsequences-with-equal-gcd/) | Hard |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/mang-os/LeetCode-Solution/tree/main/3471-find-the-largest-almost-missing-integer/) | Easy |
@@ -284,6 +285,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1248-count-number-of-nice-subarrays](https://github.com/mang-os/LeetCode-Solution/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
 | [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/mang-os/LeetCode-Solution/tree/main/1685-sum-of-absolute-differences-in-a-sorted-array/) | Medium |
 | [1732-find-the-highest-altitude](https://github.com/mang-os/LeetCode-Solution/tree/main/1732-find-the-highest-altitude/) | Easy |
+| [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/mang-os/LeetCode-Solution/tree/main/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i/) | Medium |
 | [3312-sorted-gcd-pair-queries](https://github.com/mang-os/LeetCode-Solution/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/mang-os/LeetCode-Solution/tree/main/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii/) | Medium |
 ## Union-Find
@@ -349,6 +351,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [1386-cinema-seat-allocation](https://github.com/mang-os/LeetCode-Solution/tree/main/1386-cinema-seat-allocation/) | Medium |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/mang-os/LeetCode-Solution/tree/main/3116-kth-smallest-amount-with-single-denomination-combination/) | Hard |
+| [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/mang-os/LeetCode-Solution/tree/main/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i/) | Medium |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/mang-os/LeetCode-Solution/tree/main/3513-number-of-unique-xor-triplets-i/) | Medium |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/mang-os/LeetCode-Solution/tree/main/3534-path-existence-queries-in-a-graph-ii/) | Hard |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/mang-os/LeetCode-Solution/tree/main/3702-longest-subsequence-with-non-zero-bitwise-xor/) | Medium |
@@ -495,6 +498,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1652-defuse-the-bomb](https://github.com/mang-os/LeetCode-Solution/tree/main/1652-defuse-the-bomb/) | Easy |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/mang-os/LeetCode-Solution/tree/main/1984-minimum-difference-between-highest-and-lowest-of-k-scores/) | Easy |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/mang-os/LeetCode-Solution/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
+| [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/mang-os/LeetCode-Solution/tree/main/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i/) | Medium |
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -544,4 +548,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0169-majority-element](https://github.com/mang-os/LeetCode-Solution/tree/main/0169-majority-element/) | Easy |
+## Queue
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/mang-os/LeetCode-Solution/tree/main/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i/) | Medium |
 <!---LeetCode Topics End-->
