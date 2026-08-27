@@ -208,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1291-sequential-digits](https://github.com/mang-os/LeetCode-Solution/tree/main/1291-sequential-digits/) | Medium |
 | [2951-find-the-peaks](https://github.com/mang-os/LeetCode-Solution/tree/main/2951-find-the-peaks/) | Easy |
 | [3345-smallest-divisible-digit-product-i](https://github.com/mang-os/LeetCode-Solution/tree/main/3345-smallest-divisible-digit-product-i/) | Easy |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/mang-os/LeetCode-Solution/tree/main/3720-lexicographically-smallest-permutation-greater-than-target/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -235,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/mang-os/LeetCode-Solution/tree/main/3518-smallest-palindromic-rearrangement-ii/) | Hard |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/mang-os/LeetCode-Solution/tree/main/3532-path-existence-queries-in-a-graph-i/) | Medium |
 | [3718-smallest-missing-multiple-of-k](https://github.com/mang-os/LeetCode-Solution/tree/main/3718-smallest-missing-multiple-of-k/) | Easy |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/mang-os/LeetCode-Solution/tree/main/3720-lexicographically-smallest-permutation-greater-than-target/) | Medium |
 | [3731-find-missing-elements](https://github.com/mang-os/LeetCode-Solution/tree/main/3731-find-missing-elements/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
@@ -282,6 +284,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3501-maximize-active-section-with-trade-ii](https://github.com/mang-os/LeetCode-Solution/tree/main/3501-maximize-active-section-with-trade-ii/) | Hard |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/mang-os/LeetCode-Solution/tree/main/3517-smallest-palindromic-rearrangement-i/) | Medium |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/mang-os/LeetCode-Solution/tree/main/3518-smallest-palindromic-rearrangement-ii/) | Hard |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/mang-os/LeetCode-Solution/tree/main/3720-lexicographically-smallest-permutation-greater-than-target/) | Medium |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/mang-os/LeetCode-Solution/tree/main/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii/) | Medium |
 ## Prefix Sum
 | Problem Name | Difficulty |
@@ -358,6 +361,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/mang-os/LeetCode-Solution/tree/main/3302-find-the-lexicographically-smallest-valid-sequence/) | Medium |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/mang-os/LeetCode-Solution/tree/main/3348-smallest-divisible-digit-product-ii/) | Hard |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/mang-os/LeetCode-Solution/tree/main/3534-path-existence-queries-in-a-graph-ii/) | Hard |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/mang-os/LeetCode-Solution/tree/main/3720-lexicographically-smallest-permutation-greater-than-target/) | Medium |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -449,6 +453,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/mang-os/LeetCode-Solution/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
 | [3312-sorted-gcd-pair-queries](https://github.com/mang-os/LeetCode-Solution/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/mang-os/LeetCode-Solution/tree/main/3518-smallest-palindromic-rearrangement-ii/) | Hard |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/mang-os/LeetCode-Solution/tree/main/3720-lexicographically-smallest-permutation-greater-than-target/) | Medium |
 ## Monotonic Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
