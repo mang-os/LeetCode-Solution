@@ -145,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1071-greatest-common-divisor-of-strings](https://github.com/mang-os/LeetCode-Solution/tree/main/1071-greatest-common-divisor-of-strings/) | Easy |
 | [1140-stone-game-ii](https://github.com/mang-os/LeetCode-Solution/tree/main/1140-stone-game-ii/) | Medium |
 | [1248-count-number-of-nice-subarrays](https://github.com/mang-os/LeetCode-Solution/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
+| [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/mang-os/LeetCode-Solution/tree/main/1281-subtract-the-product-and-sum-of-digits-of-an-integer/) | Easy |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/mang-os/LeetCode-Solution/tree/main/1290-convert-binary-number-in-a-linked-list-to-integer/) | Easy |
 | [1406-stone-game-iii](https://github.com/mang-os/LeetCode-Solution/tree/main/1406-stone-game-iii/) | Hard |
 | [1510-stone-game-iv](https://github.com/mang-os/LeetCode-Solution/tree/main/1510-stone-game-iv/) | Hard |
