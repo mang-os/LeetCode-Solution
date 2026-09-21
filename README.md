@@ -139,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/mang-os/LeetCode-Solution/tree/main/0070-climbing-stairs/) | Easy |
 | [0189-rotate-array](https://github.com/mang-os/LeetCode-Solution/tree/main/0189-rotate-array/) | Medium |
 | [0367-valid-perfect-square](https://github.com/mang-os/LeetCode-Solution/tree/main/0367-valid-perfect-square/) | Easy |
+| [0412-fizz-buzz](https://github.com/mang-os/LeetCode-Solution/tree/main/0412-fizz-buzz/) | Easy |
 | [0486-predict-the-winner](https://github.com/mang-os/LeetCode-Solution/tree/main/0486-predict-the-winner/) | Medium |
 | [0628-maximum-product-of-three-numbers](https://github.com/mang-os/LeetCode-Solution/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0877-stone-game](https://github.com/mang-os/LeetCode-Solution/tree/main/0877-stone-game/) | Medium |
@@ -278,6 +279,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/mang-os/LeetCode-Solution/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [0345-reverse-vowels-of-a-string](https://github.com/mang-os/LeetCode-Solution/tree/main/0345-reverse-vowels-of-a-string/) | Easy |
 | [0392-is-subsequence](https://github.com/mang-os/LeetCode-Solution/tree/main/0392-is-subsequence/) | Easy |
+| [0412-fizz-buzz](https://github.com/mang-os/LeetCode-Solution/tree/main/0412-fizz-buzz/) | Easy |
 | [0424-longest-repeating-character-replacement](https://github.com/mang-os/LeetCode-Solution/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [1071-greatest-common-divisor-of-strings](https://github.com/mang-os/LeetCode-Solution/tree/main/1071-greatest-common-divisor-of-strings/) | Easy |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/mang-os/LeetCode-Solution/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
@@ -447,6 +449,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0054-spiral-matrix](https://github.com/mang-os/LeetCode-Solution/tree/main/0054-spiral-matrix/) | Medium |
+| [0412-fizz-buzz](https://github.com/mang-os/LeetCode-Solution/tree/main/0412-fizz-buzz/) | Easy |
 | [1260-shift-2d-grid](https://github.com/mang-os/LeetCode-Solution/tree/main/1260-shift-2d-grid/) | Easy |
 | [2149-rearrange-array-elements-by-sign](https://github.com/mang-os/LeetCode-Solution/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/mang-os/LeetCode-Solution/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
